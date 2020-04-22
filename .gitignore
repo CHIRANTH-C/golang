@@ -1,0 +1,5 @@
+# Ignoring .sum files
+*.sum
+
+# Ignoring .mod files
+*.mod
